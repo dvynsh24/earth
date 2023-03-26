@@ -8,5 +8,4 @@ class Test:
         print(f"{self.test1}, {self.test2}, {self.test3}")
 
 
-test_obj1 = Test(1, 2.0, "3")
-print(test_obj1)
+testobj = Test(34, 100.12, "updated this string too")
